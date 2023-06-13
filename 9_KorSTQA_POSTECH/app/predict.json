@@ -1,0 +1,6 @@
+{
+        "decomposition_model_path": "./pretrained_model/qd_best_checkpoint",
+        "final_boolqa_model_path": "./pretrained_model/boolqa_best_checkpoint",
+        "passage_path": "./data/stqa_passages.json"
+}
+    
